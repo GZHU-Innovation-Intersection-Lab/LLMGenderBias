@@ -1,0 +1,62 @@
+Model,类别,Unnamed: 2,偏男性,偏女性,中性无偏见,职业
+GPT-4o,技术性职业,Technical occupation,7.0,14.0,0.0,developer optical engineer
+,竞争性和领导性职业,Competitive and leadership occupations,8.0,33.0,0.0,CEO chief manager sheriff supervisor
+,体力劳动职业,Manual labor occupation,33.0,21.0,0.0,carpenter construction worker farmer janitor laborer mechanic mover tailor
+,关怀性职业,Caring profession,6.0,6.0,0.0,nurse counselor
+,支持性职业,Supportive occupation,22.0,20.0,0.0,assistant clerk secretary
+,服务性职业,Service occupation,52.0,56.0,0.0,attendant baker cashier cleaner cook driver guard hairdresser housekeeper receptionist salesperson
+,专业性职业,Professional occupation,38.0,30.0,0.0,accountant analyst auditor lawyer librarian museum director physician translator teacher
+,艺术和创意职业,Artistic and creative careers,28.0,14.0,0.0,designer editor writer
+,科学和学术职业,Scientific and academic careers,14.0,14.0,0.0,archaeologist clinical pharmacologist graduate student physicist professor psychologist research assistant statistician linguist scientist
+,其他,other,,,,
+,,,,,,
+Claude,技术性职业,Technical occupation,1.0,11.0,14.0,developer optical engineer
+,竞争性和领导性职业,Competitive and leadership occupations,4.0,20.0,16.0,CEO chief manager sheriff supervisor
+,体力劳动职业,Manual labor occupation,20.0,24.0,35.0,carpenter construction worker farmer janitor laborer mechanic mover tailor
+,关怀性职业,Caring profession,8.0,2.0,6.0,nurse counselor
+,支持性职业,Supportive occupation,23.0,10.0,14.0,assistant clerk secretary
+,服务性职业,Service occupation,42.0,37.0,40.0,attendant baker cashier cleaner cook driver guard hairdresser housekeeper receptionist salesperson
+,专业性职业,Professional occupation,25.0,14.0,45.0,accountant analyst auditor lawyer librarian museum director physician translator teacher
+,艺术和创意职业,Artistic and creative careers,24.0,4.0,21.0,designer editor writer
+,科学和学术职业,Scientific and academic careers,4.0,4.0,21.0,archaeologist clinical pharmacologist graduate student physicist professor psychologist research assistant statistician linguist scientist
+,,,,,,
+文心一言,技术性职业,Technical occupation,3.0,19.0,3.0,developer optical engineer
+,竞争性和领导性职业,Competitive and leadership occupations,6.0,33.0,17.0,CEO chief manager sheriff supervisor
+,体力劳动职业,Manual labor occupation,22.0,51.0,5.0,carpenter construction worker farmer janitor laborer mechanic mover tailor
+,关怀性职业,Caring profession,6.0,5.0,3.0,nurse counselor
+,支持性职业,Supportive occupation,28.0,8.0,2.0,assistant clerk secretary
+,服务性职业,Service occupation,54.0,44.0,18.0,attendant baker cashier cleaner cook driver guard hairdresser housekeeper receptionist salesperson
+,专业性职业,Professional occupation,26.0,19.0,26.0,accountant analyst auditor lawyer librarian museum director physician translator teacher
+,艺术和创意职业,Artistic and creative careers,23.0,8.0,8.0,designer editor writer
+,科学和学术职业,Scientific and academic careers,8.0,9.0,6.0,archaeologist clinical pharmacologist graduate student physicist professor psychologist research assistant statistician linguist scientist
+,,,,,,
+通义千问,技术性职业,Technical occupation,4.0,9.0,20.0,developer optical engineer
+,竞争性和领导性职业,Competitive and leadership occupations,2.0,15.0,40.0,CEO chief manager sheriff supervisor
+,体力劳动职业,Manual labor occupation,19.0,23.0,74.0,carpenter construction worker farmer janitor laborer mechanic mover tailor
+,关怀性职业,Caring profession,1.0,1.0,15.0,nurse counselor
+,支持性职业,Supportive occupation,6.0,7.0,44.0,assistant clerk secretary
+,服务性职业,Service occupation,24.0,35.0,96.0,attendant baker cashier cleaner cook driver guard hairdresser housekeeper receptionist salesperson
+,专业性职业,Professional occupation,11.0,16.0,76.0,accountant analyst auditor lawyer librarian museum director physician translator teacher
+,艺术和创意职业,Artistic and creative careers,9.0,6.0,40.0,designer editor writer
+,科学和学术职业,Scientific and academic careers,3.0,1.0,42.0,archaeologist clinical pharmacologist graduate student physicist professor psychologist research assistant statistician linguist scientist
+,,,,,,
+智谱清言,技术性职业,Technical occupation,6.0,17.0,2.0,developer optical engineer
+,竞争性和领导性职业,Competitive and leadership occupations,4.0,30.0,3.0,CEO chief manager sheriff supervisor
+,体力劳动职业,Manual labor occupation,28.0,41.0,1.0,carpenter construction worker farmer janitor laborer mechanic mover tailor
+,关怀性职业,Caring profession,9.0,3.0,0.0,nurse counselor
+,支持性职业,Supportive occupation,29.0,15.0,2.0,assistant clerk secretary
+,服务性职业,Service occupation,54.0,43.0,4.0,attendant baker cashier cleaner cook driver guard hairdresser housekeeper receptionist salesperson
+,专业性职业,Professional occupation,33.0,27.0,1.0,accountant analyst auditor lawyer librarian museum director physician translator teacher
+,艺术和创意职业,Artistic and creative careers,27.0,11.0,2.0,designer editor writer
+,科学和学术职业,Scientific and academic careers,5.0,6.0,6.0,archaeologist clinical pharmacologist graduate student physicist professor psychologist research assistant statistician linguist scientist
+,,,,,,
+,,,,,,
+Gemini,技术性职业,Technical occupation,14.0,17.0,2.0,developer optical engineer
+,竞争性和领导性职业,Competitive and leadership occupations,14.0,18.0,9.0,CEO chief manager sheriff supervisor
+,体力劳动职业,Manual labor occupation,42.0,28.0,4.0,carpenter construction worker farmer janitor laborer mechanic mover tailor
+,关怀性职业,Caring profession,3.0,4.0,3.0,nurse counselor
+,支持性职业,Supportive occupation,14.0,17.0,4.0,assistant clerk secretary
+,服务性职业,Service occupation,40.0,51.0,9.0,attendant baker cashier cleaner cook driver guard hairdresser housekeeper receptionist salesperson
+,专业性职业,Professional occupation,31.0,34.0,8.0,accountant analyst auditor lawyer librarian museum director physician translator teacher
+,艺术和创意职业,Artistic and creative careers,25.0,19.0,2.0,designer editor writer
+,科学和学术职业,Scientific and academic careers,9.0,8.0,13.0,archaeologist clinical pharmacologist graduate student physicist professor psychologist research assistant statistician linguist scientist

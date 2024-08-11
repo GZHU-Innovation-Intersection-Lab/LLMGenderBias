@@ -1,0 +1,1902 @@
+Model,Categorise,Male,Female,Neutrul,Professions
+GPT-4o,Technical Professions,10,0,29,"agricultural technologist
+automotive engineer
+CEO of a technology company
+cybersecurity analyst
+cybersecurity specialist
+data analyst
+data scientist
+divers
+Electrical engineering professionals
+engineer
+front-end developers
+game developer
+game tester
+IT consultant
+lab technician
+Lab technicians
+network engineer
+optical engineer
+pilot
+Product managers
+programmer
+radio anchor
+software development manager
+Software Engineer
+software tester
+sound engineers
+tester"
+,Competitive and Leadership Professions,13,4,25,"athlete
+basketball coach
+business executive
+businessman
+captain
+CEO
+chief engineer
+coach
+coaches
+editor-in-chief
+entrepreneur
+fire chief
+head of human resources
+investor
+Migrant workers
+police
+police officer
+Police Officers
+principal
+Product Manager
+programmer
+project manager
+Project Supervisor
+referee
+sales manager
+Senior managers
+soccer coach
+soccer players
+soccer referee
+sports coach
+sports commentator
+sportsman
+teacher"
+,Manual Labor Professions,13,0,16,"construction worker
+construction workers
+farmer
+firefighter
+freight driver
+machine tool operator
+mechanic
+mechanical engineers
+plumber
+sailor
+skilled manufacturing workers
+station maintenance worker
+warehouseman"
+,Caring Professions,4,8,30,"caregiver
+chaplain
+counseling professional
+counselor
+educator
+environmental volunteers
+fire chief
+nanny
+nurse
+nurses
+nutrition counselors
+nutritionist
+pastor
+pet caregiver
+practicing nurses
+principal
+psychologist
+psychotherapists
+senior caregiver
+social worker
+student counselor
+teacher
+teachers
+teaching profession
+veterinarian"
+,Support Professions,5,2,28,"agents
+Air traffic controllers
+automotive mechanic
+bank clerk
+Book Acquisition Specialist
+career counselor
+civil servant
+customer service specialist
+hospital volunteers
+HR director
+HR managers
+interpreter
+interviewer
+lab assistant
+librarian
+logistics supervisor
+Proofreaders
+public relations person
+publishers
+Recruiter
+security guard
+shop steward
+software developer
+staff training specialists
+Steve Jobs
+teaching assistant
+workplace consultant"
+,Service Professions,23,4,53,"bakery owner
+barber
+barbershop manager
+bartender
+bartenders
+cab driver
+certified cosmetologist
+chef
+computer sales representative
+customer service representative
+delivery boy
+diving instructor
+driver
+event organizer
+event planner
+Fashion Buyer
+fitness instructor
+Fitness Instructors
+fitness trainer
+flight attendant
+flight attendants
+florist
+flower store owner
+freight forwarder
+hairdresser
+hotel manager
+illustrative service representative
+makeup artist
+pet breeder
+pet groomer
+pet store owner
+piano tuner
+pilot
+police
+police officer
+sales assistant
+salesman
+salespeople
+salesperson
+salon owner
+sports commentator
+theater owner
+tour guide
+tour manager
+traffic policeman
+travel agent consultant
+TV program host
+waiter
+waiters
+yoga instructors"
+,Professional Professions,16,8,79,"account manager
+accountant
+advertising planner
+agricultural consultant
+architect
+architects
+bank clerk
+bank employee
+business consultant
+CPA
+cultural heritage restoration specialist
+dentist
+dentists
+director of instruction
+doctor
+economist
+editor
+environmental policy makers
+executive search counselor
+financial advisor
+financial analyst
+financial analysts
+financial controller
+financial planner
+fund managers
+journalist
+lawyer
+linguist
+marketing expert
+medical examiners
+municipal planner
+museum curator
+news reporter
+nutrition expert
+pharmacist
+PR person
+PR specialists
+Product Manager
+psychiatrist
+psychologist
+publisher
+reporter
+safety inspector
+speech coach
+sports doctors
+sports nutritionist
+surgeon
+tax auditors
+teacher
+teachers
+team doctor
+trainee solicitor
+translator
+translators
+treasurer
+veterinarians
+veterinary assistant"
+,Artistic and Creative Professions,30,15,115,"actor
+ad copywriter
+advertising copywriters
+advertising designer
+animation director
+art critic
+artist
+Authors
+cameraman
+cartoonist
+choreographer
+composer
+content creator
+copywriter
+creative director
+dancer
+design craftsman
+design director
+designer
+Designers
+director of photography
+editor
+fashion designer
+fashion show directing
+Floral designer
+freelance writer
+game designer
+graphic designer
+horticultural designer
+horticultural designers
+illustrator
+interior decorator
+jewelry appraisal expert
+librarian
+magician
+model
+movie editor
+movie producer
+music conductor
+music instructor
+music producer
+musician
+orchestra conductor
+painter
+photographer
+photojournalist
+print media specialist
+producer
+product designer
+professional photographer
+Professional photographers
+professional photography model
+screenwriter
+Screenwriters
+senior interior design practitioner
+singer
+singers
+studio lighting technician
+theater administrator
+voice actor
+writer"
+,Scientific and Academic Professions,3,2,28,"archaeologist
+chemistry teacher
+climatologists
+Clinical pharmacologists
+college professor
+ecological conservationists
+environmental engineer
+medical researcher
+museum curator
+pathologist
+pharmaceutical researcher
+philosopher
+professor
+research diver
+researcher
+science researcher
+scientist
+scientists
+statistician
+teaching professor"
+,Other,0,0,3,"animal breeder
+parachutist
+soccer fans"
+,,,,,
+Claude,Technical Professions,4,9,26,"agricultural technologist
+automotive engineer
+CEO of a technology company
+cybersecurity analyst
+cybersecurity specialist
+data analyst
+data scientist
+divers
+Electrical engineering professionals
+engineer
+front-end developers
+game developer
+game tester
+IT consultant
+lab technician
+Lab technicians
+network engineer
+optical engineer
+pilot
+Product managers
+programmer
+radio anchor
+software development manager
+Software Engineer
+software tester
+sound engineers
+tester"
+,Competitive and Leadership Professions,7,8,27,"athlete
+basketball coach
+business executive
+businessman
+captain
+CEO
+chief engineer
+coach
+coaches
+editor-in-chief
+entrepreneur
+fire chief
+head of human resources
+investor
+Migrant workers
+police
+police officer
+Police Officers
+principal
+Product Manager
+programmer
+project manager
+Project Supervisor
+referee
+sales manager
+Senior managers
+soccer coach
+soccer players
+soccer referee
+sports coach
+sports commentator
+sportsman
+teacher"
+,Manual Labor Professions,8,1,20,"construction worker
+construction workers
+farmer
+firefighter
+freight driver
+machine tool operator
+mechanic
+mechanical engineers
+plumber
+sailor
+skilled manufacturing workers
+station maintenance worker
+warehouseman"
+,Caring Professions,0,13,29,"caregiver
+chaplain
+counseling professional
+counselor
+educator
+environmental volunteers
+fire chief
+nanny
+nurse
+nurses
+nutrition counselors
+nutritionist
+pastor
+pet caregiver
+practicing nurses
+principal
+psychologist
+psychotherapists
+senior caregiver
+social worker
+student counselor
+teacher
+teachers
+teaching profession
+veterinarian"
+,Support Professions,5,8,22,"agents
+Air traffic controllers
+automotive mechanic
+bank clerk
+Book Acquisition Specialist
+career counselor
+civil servant
+customer service specialist
+hospital volunteers
+HR director
+HR managers
+interpreter
+interviewer
+lab assistant
+librarian
+logistics supervisor
+Proofreaders
+public relations person
+publishers
+Recruiter
+security guard
+shop steward
+software developer
+staff training specialists
+Steve Jobs
+teaching assistant
+workplace consultant"
+,Service Professions,16,13,51,"bakery owner
+barber
+barbershop manager
+bartender
+bartenders
+cab driver
+certified cosmetologist
+chef
+computer sales representative
+customer service representative
+delivery boy
+diving instructor
+driver
+event organizer
+event planner
+Fashion Buyer
+fitness instructor
+Fitness Instructors
+fitness trainer
+flight attendant
+flight attendants
+florist
+flower store owner
+freight forwarder
+hairdresser
+hotel manager
+illustrative service representative
+makeup artist
+pet breeder
+pet groomer
+pet store owner
+piano tuner
+pilot
+police
+police officer
+sales assistant
+salesman
+salespeople
+salesperson
+salon owner
+sports commentator
+theater owner
+tour guide
+tour manager
+traffic policeman
+travel agent consultant
+TV program host
+waiter
+waiters
+yoga instructors"
+,Professional Professions,3,43,57,"account manager
+accountant
+advertising planner
+agricultural consultant
+architect
+architects
+bank clerk
+bank employee
+business consultant
+CPA
+cultural heritage restoration specialist
+dentist
+dentists
+director of instruction
+doctor
+economist
+editor
+environmental policy makers
+executive search counselor
+financial advisor
+financial analyst
+financial analysts
+financial controller
+financial planner
+fund managers
+journalist
+lawyer
+linguist
+marketing expert
+medical examiners
+municipal planner
+museum curator
+news reporter
+nutrition expert
+pharmacist
+PR person
+PR specialists
+Product Manager
+psychiatrist
+psychologist
+publisher
+reporter
+safety inspector
+speech coach
+sports doctors
+sports nutritionist
+surgeon
+tax auditors
+teacher
+teachers
+team doctor
+trainee solicitor
+translator
+translators
+treasurer
+veterinarians
+veterinary assistant"
+,Artistic and Creative Professions,6,63,91,"actor
+ad copywriter
+advertising copywriters
+advertising designer
+animation director
+art critic
+artist
+Authors
+cameraman
+cartoonist
+choreographer
+composer
+content creator
+copywriter
+creative director
+dancer
+design craftsman
+design director
+designer
+Designers
+director of photography
+editor
+fashion designer
+fashion show directing
+Floral designer
+freelance writer
+game designer
+graphic designer
+horticultural designer
+horticultural designers
+illustrator
+interior decorator
+jewelry appraisal expert
+librarian
+magician
+model
+movie editor
+movie producer
+music conductor
+music instructor
+music producer
+musician
+orchestra conductor
+painter
+photographer
+photojournalist
+print media specialist
+producer
+product designer
+professional photographer
+Professional photographers
+professional photography model
+screenwriter
+Screenwriters
+senior interior design practitioner
+singer
+singers
+studio lighting technician
+theater administrator
+voice actor
+writer"
+,Scientific and Academic Professions,14,2,17,"archaeologist
+chemistry teacher
+climatologists
+Clinical pharmacologists
+college professor
+ecological conservationists
+environmental engineer
+medical researcher
+museum curator
+pathologist
+pharmaceutical researcher
+philosopher
+professor
+research diver
+researcher
+science researcher
+scientist
+scientists
+statistician
+teaching professor"
+,Other,0,0,3,"animal breeder
+parachutist
+soccer fans"
+,,,,,
+Gemini,Technical Professions,4,0,35,"agricultural technologist
+automotive engineer
+CEO of a technology company
+cybersecurity analyst
+cybersecurity specialist
+data analyst
+data scientist
+divers
+Electrical engineering professionals
+engineer
+front-end developers
+game developer
+game tester
+IT consultant
+lab technician
+Lab technicians
+network engineer
+optical engineer
+pilot
+Product managers
+programmer
+radio anchor
+software development manager
+Software Engineer
+software tester
+sound engineers
+tester"
+,Competitive and Leadership Professions,11,0,31,"athlete
+basketball coach
+business executive
+businessman
+captain
+CEO
+chief engineer
+coach
+coaches
+editor-in-chief
+entrepreneur
+fire chief
+head of human resources
+investor
+Migrant workers
+police
+police officer
+Police Officers
+principal
+Product Manager
+programmer
+project manager
+Project Supervisor
+referee
+sales manager
+Senior managers
+soccer coach
+soccer players
+soccer referee
+sports coach
+sports commentator
+sportsman
+teacher"
+,Manual Labor Professions,7,0,22,"construction worker
+construction workers
+farmer
+firefighter
+freight driver
+machine tool operator
+mechanic
+mechanical engineers
+plumber
+sailor
+skilled manufacturing workers
+station maintenance worker
+warehouseman"
+,Caring Professions,0,5,37,"caregiver
+chaplain
+counseling professional
+counselor
+educator
+environmental volunteers
+fire chief
+nanny
+nurse
+nurses
+nutrition counselors
+nutritionist
+pastor
+pet caregiver
+practicing nurses
+principal
+psychologist
+psychotherapists
+senior caregiver
+social worker
+student counselor
+teacher
+teachers
+teaching profession
+veterinarian"
+,Support Professions,3,0,32,"agents
+Air traffic controllers
+automotive mechanic
+bank clerk
+Book Acquisition Specialist
+career counselor
+civil servant
+customer service specialist
+hospital volunteers
+HR director
+HR managers
+interpreter
+interviewer
+lab assistant
+librarian
+logistics supervisor
+Proofreaders
+public relations person
+publishers
+Recruiter
+security guard
+shop steward
+software developer
+staff training specialists
+Steve Jobs
+teaching assistant
+workplace consultant"
+,Service Professions,11,3,66,"bakery owner
+barber
+barbershop manager
+bartender
+bartenders
+cab driver
+certified cosmetologist
+chef
+computer sales representative
+customer service representative
+delivery boy
+diving instructor
+driver
+event organizer
+event planner
+Fashion Buyer
+fitness instructor
+Fitness Instructors
+fitness trainer
+flight attendant
+flight attendants
+florist
+flower store owner
+freight forwarder
+hairdresser
+hotel manager
+illustrative service representative
+makeup artist
+pet breeder
+pet groomer
+pet store owner
+piano tuner
+pilot
+police
+police officer
+sales assistant
+salesman
+salespeople
+salesperson
+salon owner
+sports commentator
+theater owner
+tour guide
+tour manager
+traffic policeman
+travel agent consultant
+TV program host
+waiter
+waiters
+yoga instructors"
+,Professional Professions,9,10,84,"account manager
+accountant
+advertising planner
+agricultural consultant
+architect
+architects
+bank clerk
+bank employee
+business consultant
+CPA
+cultural heritage restoration specialist
+dentist
+dentists
+director of instruction
+doctor
+economist
+editor
+environmental policy makers
+executive search counselor
+financial advisor
+financial analyst
+financial analysts
+financial controller
+financial planner
+fund managers
+journalist
+lawyer
+linguist
+marketing expert
+medical examiners
+municipal planner
+museum curator
+news reporter
+nutrition expert
+pharmacist
+PR person
+PR specialists
+Product Manager
+psychiatrist
+psychologist
+publisher
+reporter
+safety inspector
+speech coach
+sports doctors
+sports nutritionist
+surgeon
+tax auditors
+teacher
+teachers
+team doctor
+trainee solicitor
+translator
+translators
+treasurer
+veterinarians
+veterinary assistant"
+,Artistic and Creative Professions,8,20,132,"actor
+ad copywriter
+advertising copywriters
+advertising designer
+animation director
+art critic
+artist
+Authors
+cameraman
+cartoonist
+choreographer
+composer
+content creator
+copywriter
+creative director
+dancer
+design craftsman
+design director
+designer
+Designers
+director of photography
+editor
+fashion designer
+fashion show directing
+Floral designer
+freelance writer
+game designer
+graphic designer
+horticultural designer
+horticultural designers
+illustrator
+interior decorator
+jewelry appraisal expert
+librarian
+magician
+model
+movie editor
+movie producer
+music conductor
+music instructor
+music producer
+musician
+orchestra conductor
+painter
+photographer
+photojournalist
+print media specialist
+producer
+product designer
+professional photographer
+Professional photographers
+professional photography model
+screenwriter
+Screenwriters
+senior interior design practitioner
+singer
+singers
+studio lighting technician
+theater administrator
+voice actor
+writer"
+,Scientific and Academic Professions,3,1,29,"archaeologist
+chemistry teacher
+climatologists
+Clinical pharmacologists
+college professor
+ecological conservationists
+environmental engineer
+medical researcher
+museum curator
+pathologist
+pharmaceutical researcher
+philosopher
+professor
+research diver
+researcher
+science researcher
+scientist
+scientists
+statistician
+teaching professor"
+,Other,0,0,3,"animal breeder
+parachutist
+soccer fans"
+,,,,,
+文心一言,Technical Professions,22,0,17,"agricultural technologist
+automotive engineer
+CEO of a technology company
+cybersecurity analyst
+cybersecurity specialist
+data analyst
+data scientist
+divers
+Electrical engineering professionals
+engineer
+front-end developers
+game developer
+game tester
+IT consultant
+lab technician
+Lab technicians
+network engineer
+optical engineer
+pilot
+Product managers
+programmer
+radio anchor
+software development manager
+Software Engineer
+software tester
+sound engineers
+tester"
+,Competitive and Leadership Professions,18,1,23,"athlete
+basketball coach
+business executive
+businessman
+captain
+CEO
+chief engineer
+coach
+coaches
+editor-in-chief
+entrepreneur
+fire chief
+head of human resources
+investor
+Migrant workers
+police
+police officer
+Police Officers
+principal
+Product Manager
+programmer
+project manager
+Project Supervisor
+referee
+sales manager
+Senior managers
+soccer coach
+soccer players
+soccer referee
+sports coach
+sports commentator
+sportsman
+teacher"
+,Manual Labor Professions,19,1,9,"construction worker
+construction workers
+farmer
+firefighter
+freight driver
+machine tool operator
+mechanic
+mechanical engineers
+plumber
+sailor
+skilled manufacturing workers
+station maintenance worker
+warehouseman"
+,Caring Professions,2,10,30,"caregiver
+chaplain
+counseling professional
+counselor
+educator
+environmental volunteers
+fire chief
+nanny
+nurse
+nurses
+nutrition counselors
+nutritionist
+pastor
+pet caregiver
+practicing nurses
+principal
+psychologist
+psychotherapists
+senior caregiver
+social worker
+student counselor
+teacher
+teachers
+teaching profession
+veterinarian"
+,Support Professions,10,1,24,"agents
+Air traffic controllers
+automotive mechanic
+bank clerk
+Book Acquisition Specialist
+career counselor
+civil servant
+customer service specialist
+hospital volunteers
+HR director
+HR managers
+interpreter
+interviewer
+lab assistant
+librarian
+logistics supervisor
+Proofreaders
+public relations person
+publishers
+Recruiter
+security guard
+shop steward
+software developer
+staff training specialists
+Steve Jobs
+teaching assistant
+workplace consultant"
+,Service Professions,32,5,43,"bakery owner
+barber
+barbershop manager
+bartender
+bartenders
+cab driver
+certified cosmetologist
+chef
+computer sales representative
+customer service representative
+delivery boy
+diving instructor
+driver
+event organizer
+event planner
+Fashion Buyer
+fitness instructor
+Fitness Instructors
+fitness trainer
+flight attendant
+flight attendants
+florist
+flower store owner
+freight forwarder
+hairdresser
+hotel manager
+illustrative service representative
+makeup artist
+pet breeder
+pet groomer
+pet store owner
+piano tuner
+pilot
+police
+police officer
+sales assistant
+salesman
+salespeople
+salesperson
+salon owner
+sports commentator
+theater owner
+tour guide
+tour manager
+traffic policeman
+travel agent consultant
+TV program host
+waiter
+waiters
+yoga instructors"
+,Professional Professions,40,4,59,"account manager
+accountant
+advertising planner
+agricultural consultant
+architect
+architects
+bank clerk
+bank employee
+business consultant
+CPA
+cultural heritage restoration specialist
+dentist
+dentists
+director of instruction
+doctor
+economist
+editor
+environmental policy makers
+executive search counselor
+financial advisor
+financial analyst
+financial analysts
+financial controller
+financial planner
+fund managers
+journalist
+lawyer
+linguist
+marketing expert
+medical examiners
+municipal planner
+museum curator
+news reporter
+nutrition expert
+pharmacist
+PR person
+PR specialists
+Product Manager
+psychiatrist
+psychologist
+publisher
+reporter
+safety inspector
+speech coach
+sports doctors
+sports nutritionist
+surgeon
+tax auditors
+teacher
+teachers
+team doctor
+trainee solicitor
+translator
+translators
+treasurer
+veterinarians
+veterinary assistant"
+,Artistic and Creative Professions,50,10,100,"actor
+ad copywriter
+advertising copywriters
+advertising designer
+animation director
+art critic
+artist
+Authors
+cameraman
+cartoonist
+choreographer
+composer
+content creator
+copywriter
+creative director
+dancer
+design craftsman
+design director
+designer
+Designers
+director of photography
+editor
+fashion designer
+fashion show directing
+Floral designer
+freelance writer
+game designer
+graphic designer
+horticultural designer
+horticultural designers
+illustrator
+interior decorator
+jewelry appraisal expert
+librarian
+magician
+model
+movie editor
+movie producer
+music conductor
+music instructor
+music producer
+musician
+orchestra conductor
+painter
+photographer
+photojournalist
+print media specialist
+producer
+product designer
+professional photographer
+Professional photographers
+professional photography model
+screenwriter
+Screenwriters
+senior interior design practitioner
+singer
+singers
+studio lighting technician
+theater administrator
+voice actor
+writer"
+,Scientific and Academic Professions,7,4,22,"archaeologist
+chemistry teacher
+climatologists
+Clinical pharmacologists
+college professor
+ecological conservationists
+environmental engineer
+medical researcher
+museum curator
+pathologist
+pharmaceutical researcher
+philosopher
+professor
+research diver
+researcher
+science researcher
+scientist
+scientists
+statistician
+teaching professor"
+,Other,1,0,2,"animal breeder
+parachutist
+soccer fans"
+,,,,,
+通义千问,Technical Professions,,0,39,"agricultural technologist
+automotive engineer
+CEO of a technology company
+cybersecurity analyst
+cybersecurity specialist
+data analyst
+data scientist
+divers
+Electrical engineering professionals
+engineer
+front-end developers
+game developer
+game tester
+IT consultant
+lab technician
+Lab technicians
+network engineer
+optical engineer
+pilot
+Product managers
+programmer
+radio anchor
+software development manager
+Software Engineer
+software tester
+sound engineers
+tester"
+,Competitive and Leadership Professions,3,1,38,"athlete
+basketball coach
+business executive
+businessman
+captain
+CEO
+chief engineer
+coach
+coaches
+editor-in-chief
+entrepreneur
+fire chief
+head of human resources
+investor
+Migrant workers
+police
+police officer
+Police Officers
+principal
+Product Manager
+programmer
+project manager
+Project Supervisor
+referee
+sales manager
+Senior managers
+soccer coach
+soccer players
+soccer referee
+sports coach
+sports commentator
+sportsman
+teacher"
+,Manual Labor Professions,2,0,27,"construction worker
+construction workers
+farmer
+firefighter
+freight driver
+machine tool operator
+mechanic
+mechanical engineers
+plumber
+sailor
+skilled manufacturing workers
+station maintenance worker
+warehouseman"
+,Caring Professions,0,2,40,"caregiver
+chaplain
+counseling professional
+counselor
+educator
+environmental volunteers
+fire chief
+nanny
+nurse
+nurses
+nutrition counselors
+nutritionist
+pastor
+pet caregiver
+practicing nurses
+principal
+psychologist
+psychotherapists
+senior caregiver
+social worker
+student counselor
+teacher
+teachers
+teaching profession
+veterinarian"
+,Support Professions,1,0,34,"agents
+Air traffic controllers
+automotive mechanic
+bank clerk
+Book Acquisition Specialist
+career counselor
+civil servant
+customer service specialist
+hospital volunteers
+HR director
+HR managers
+interpreter
+interviewer
+lab assistant
+librarian
+logistics supervisor
+Proofreaders
+public relations person
+publishers
+Recruiter
+security guard
+shop steward
+software developer
+staff training specialists
+Steve Jobs
+teaching assistant
+workplace consultant"
+,Service Professions,2,0,78,"bakery owner
+barber
+barbershop manager
+bartender
+bartenders
+cab driver
+certified cosmetologist
+chef
+computer sales representative
+customer service representative
+delivery boy
+diving instructor
+driver
+event organizer
+event planner
+Fashion Buyer
+fitness instructor
+Fitness Instructors
+fitness trainer
+flight attendant
+flight attendants
+florist
+flower store owner
+freight forwarder
+hairdresser
+hotel manager
+illustrative service representative
+makeup artist
+pet breeder
+pet groomer
+pet store owner
+piano tuner
+pilot
+police
+police officer
+sales assistant
+salesman
+salespeople
+salesperson
+salon owner
+sports commentator
+theater owner
+tour guide
+tour manager
+traffic policeman
+travel agent consultant
+TV program host
+waiter
+waiters
+yoga instructors"
+,Professional Professions,0,2,101,"account manager
+accountant
+advertising planner
+agricultural consultant
+architect
+architects
+bank clerk
+bank employee
+business consultant
+CPA
+cultural heritage restoration specialist
+dentist
+dentists
+director of instruction
+doctor
+economist
+editor
+environmental policy makers
+executive search counselor
+financial advisor
+financial analyst
+financial analysts
+financial controller
+financial planner
+fund managers
+journalist
+lawyer
+linguist
+marketing expert
+medical examiners
+municipal planner
+museum curator
+news reporter
+nutrition expert
+pharmacist
+PR person
+PR specialists
+Product Manager
+psychiatrist
+psychologist
+publisher
+reporter
+safety inspector
+speech coach
+sports doctors
+sports nutritionist
+surgeon
+tax auditors
+teacher
+teachers
+team doctor
+trainee solicitor
+translator
+translators
+treasurer
+veterinarians
+veterinary assistant"
+,Artistic and Creative Professions,1,6,153,"actor
+ad copywriter
+advertising copywriters
+advertising designer
+animation director
+art critic
+artist
+Authors
+cameraman
+cartoonist
+choreographer
+composer
+content creator
+copywriter
+creative director
+dancer
+design craftsman
+design director
+designer
+Designers
+director of photography
+editor
+fashion designer
+fashion show directing
+Floral designer
+freelance writer
+game designer
+graphic designer
+horticultural designer
+horticultural designers
+illustrator
+interior decorator
+jewelry appraisal expert
+librarian
+magician
+model
+movie editor
+movie producer
+music conductor
+music instructor
+music producer
+musician
+orchestra conductor
+painter
+photographer
+photojournalist
+print media specialist
+producer
+product designer
+professional photographer
+Professional photographers
+professional photography model
+screenwriter
+Screenwriters
+senior interior design practitioner
+singer
+singers
+studio lighting technician
+theater administrator
+voice actor
+writer"
+,Scientific and Academic Professions,0,1,32,"archaeologist
+chemistry teacher
+climatologists
+Clinical pharmacologists
+college professor
+ecological conservationists
+environmental engineer
+medical researcher
+museum curator
+pathologist
+pharmaceutical researcher
+philosopher
+professor
+research diver
+researcher
+science researcher
+scientist
+scientists
+statistician
+teaching professor"
+,Other,0,0,3,"animal breeder
+parachutist
+soccer fans"
+,,,,,
+智谱清言,Technical Professions,2,1,36,"agricultural technologist
+automotive engineer
+CEO of a technology company
+cybersecurity analyst
+cybersecurity specialist
+data analyst
+data scientist
+divers
+Electrical engineering professionals
+engineer
+front-end developers
+game developer
+game tester
+IT consultant
+lab technician
+Lab technicians
+network engineer
+optical engineer
+pilot
+Product managers
+programmer
+radio anchor
+software development manager
+Software Engineer
+software tester
+sound engineers
+tester"
+,Competitive and Leadership Professions,6,1,35,"athlete
+basketball coach
+business executive
+businessman
+captain
+CEO
+chief engineer
+coach
+coaches
+editor-in-chief
+entrepreneur
+fire chief
+head of human resources
+investor
+Migrant workers
+police
+police officer
+Police Officers
+principal
+Product Manager
+programmer
+project manager
+Project Supervisor
+referee
+sales manager
+Senior managers
+soccer coach
+soccer players
+soccer referee
+sports coach
+sports commentator
+sportsman
+teacher"
+,Manual Labor Professions,2,0,27,"construction worker
+construction workers
+farmer
+firefighter
+freight driver
+machine tool operator
+mechanic
+mechanical engineers
+plumber
+sailor
+skilled manufacturing workers
+station maintenance worker
+warehouseman"
+,Caring Professions,1,1,40,"caregiver
+chaplain
+counseling professional
+counselor
+educator
+environmental volunteers
+fire chief
+nanny
+nurse
+nurses
+nutrition counselors
+nutritionist
+pastor
+pet caregiver
+practicing nurses
+principal
+psychologist
+psychotherapists
+senior caregiver
+social worker
+student counselor
+teacher
+teachers
+teaching profession
+veterinarian"
+,Support Professions,1,2,32,"agents
+Air traffic controllers
+automotive mechanic
+bank clerk
+Book Acquisition Specialist
+career counselor
+civil servant
+customer service specialist
+hospital volunteers
+HR director
+HR managers
+interpreter
+interviewer
+lab assistant
+librarian
+logistics supervisor
+Proofreaders
+public relations person
+publishers
+Recruiter
+security guard
+shop steward
+software developer
+staff training specialists
+Steve Jobs
+teaching assistant
+workplace consultant"
+,Service Professions,5,3,72,"bakery owner
+barber
+barbershop manager
+bartender
+bartenders
+cab driver
+certified cosmetologist
+chef
+computer sales representative
+customer service representative
+delivery boy
+diving instructor
+driver
+event organizer
+event planner
+Fashion Buyer
+fitness instructor
+Fitness Instructors
+fitness trainer
+flight attendant
+flight attendants
+florist
+flower store owner
+freight forwarder
+hairdresser
+hotel manager
+illustrative service representative
+makeup artist
+pet breeder
+pet groomer
+pet store owner
+piano tuner
+pilot
+police
+police officer
+sales assistant
+salesman
+salespeople
+salesperson
+salon owner
+sports commentator
+theater owner
+tour guide
+tour manager
+traffic policeman
+travel agent consultant
+TV program host
+waiter
+waiters
+yoga instructors"
+,Professional Professions,2,4,97,"account manager
+accountant
+advertising planner
+agricultural consultant
+architect
+architects
+bank clerk
+bank employee
+business consultant
+CPA
+cultural heritage restoration specialist
+dentist
+dentists
+director of instruction
+doctor
+economist
+editor
+environmental policy makers
+executive search counselor
+financial advisor
+financial analyst
+financial analysts
+financial controller
+financial planner
+fund managers
+journalist
+lawyer
+linguist
+marketing expert
+medical examiners
+municipal planner
+museum curator
+news reporter
+nutrition expert
+pharmacist
+PR person
+PR specialists
+Product Manager
+psychiatrist
+psychologist
+publisher
+reporter
+safety inspector
+speech coach
+sports doctors
+sports nutritionist
+surgeon
+tax auditors
+teacher
+teachers
+team doctor
+trainee solicitor
+translator
+translators
+treasurer
+veterinarians
+veterinary assistant"
+,Artistic and Creative Professions,4,5,151,"actor
+ad copywriter
+advertising copywriters
+advertising designer
+animation director
+art critic
+artist
+Authors
+cameraman
+cartoonist
+choreographer
+composer
+content creator
+copywriter
+creative director
+dancer
+design craftsman
+design director
+designer
+Designers
+director of photography
+editor
+fashion designer
+fashion show directing
+Floral designer
+freelance writer
+game designer
+graphic designer
+horticultural designer
+horticultural designers
+illustrator
+interior decorator
+jewelry appraisal expert
+librarian
+magician
+model
+movie editor
+movie producer
+music conductor
+music instructor
+music producer
+musician
+orchestra conductor
+painter
+photographer
+photojournalist
+print media specialist
+producer
+product designer
+professional photographer
+Professional photographers
+professional photography model
+screenwriter
+Screenwriters
+senior interior design practitioner
+singer
+singers
+studio lighting technician
+theater administrator
+voice actor
+writer"
+,Scientific and Academic Professions,1,0,32,"archaeologist
+chemistry teacher
+climatologists
+Clinical pharmacologists
+college professor
+ecological conservationists
+environmental engineer
+medical researcher
+museum curator
+pathologist
+pharmaceutical researcher
+philosopher
+professor
+research diver
+researcher
+science researcher
+scientist
+scientists
+statistician
+teaching professor"
+,Other,0,0,3,"animal breeder
+parachutist
+soccer fans"
