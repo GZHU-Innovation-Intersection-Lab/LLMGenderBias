@@ -11,7 +11,7 @@ output_path = '/content/gdrive/MyDrive/Colab Notebooks/gender_bias/output/'
 
 # https://platform.openai.com/api-keys   注册获取API_KEY
 # api_key = open('../chatgpt-apikey.txt').read().strip()
-api_key = 'sk-proj-XNj0uGpkbusZEztWySrpT3BlbkFJYzdhQezlCD2I6xdbaM42'
+api_key = 'sk-********************************************'
 client = OpenAI(api_key=api_key)
 
 
